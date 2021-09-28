@@ -17,8 +17,8 @@ all data ranges are picked up
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 > Spring is a good time to launch theatre. Winter is the least favorable time to launch. 
 - What can you conclude about the Outcomes based on Goals?
-- Smaller budgets are more successful. 
+> Smaller budgets are more successful. 
 - What are some limitations of this dataset?
-- It does not talk about the age category that contribute to the success of the play. Does not talk about the platform used to advertise
+> It does not talk about the age category that contribute to the success of the play. Does not talk about the platform used to advertise
 - What are some other possible tables and/or graphs that we could create?
-- Create category wise split of success to understand what categories and further subcategories are most successful. What the outcomes of staff picks looks like and if it drives the outcomes one way or the other. 
+>Create category wise split of success to understand what categories and further subcategories are most successful. What the outcomes of staff picks looks like and if it drives the outcomes one way or the other. 
