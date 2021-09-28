@@ -1,4 +1,4 @@
-# An analysis of Kickstarter Campaigns
+# *** *** An analysis of Kickstarter Campaigns
 ## Overview of Project
 ### Purpose
 - Louise is a playwriter looking for crowdfunding for her play for an estimated $10k and need an analysis on crowdfunded plays to understand the driving factors behind the success/failure. 
