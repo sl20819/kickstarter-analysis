@@ -15,7 +15,7 @@ all data ranges are picked up
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- Spring is a good time to launch theatre. Winter is the least favorable time to launch. 
+> Spring is a good time to launch theatre. Winter is the least favorable time to launch. 
 - What can you conclude about the Outcomes based on Goals?
 - Smaller budgets are more successful. 
 - What are some limitations of this dataset?
